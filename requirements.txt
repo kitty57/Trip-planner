@@ -1,1 +1,5 @@
-streamlit>=1.26.0
+crewai
+streamlit
+langchain-google-genai
+bs4
+requests
