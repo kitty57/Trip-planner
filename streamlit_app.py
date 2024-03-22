@@ -9,6 +9,7 @@ import json
 import os
 import requests
 from bs4 import BeautifulSoup
+import streamlit as st
 
 llm = GoogleGenerativeAI(
            model="gemini-pro",
@@ -249,8 +250,6 @@ class TripCrew:
 
     result = crew.kickoff()
     return result
-
-import streamlit as st
 
 # Define Streamlit app layout
 st.title('Trip Planner Crew')
