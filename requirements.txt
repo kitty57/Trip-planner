@@ -3,4 +3,3 @@ streamlit
 langchain-google-genai
 bs4
 requests
-python
