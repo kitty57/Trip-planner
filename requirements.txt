@@ -1,4 +1,4 @@
-crewai==0.22.5
+crewai
 streamlit
 langchain-google-genai
 bs4
