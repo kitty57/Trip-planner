@@ -1,5 +1,7 @@
-crewai
 streamlit
+crewai
+langchain
 langchain-google-genai
-bs4
+beautifulsoup4
 requests
+textwrap
